@@ -17,7 +17,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "测试代码提交触发自动构建dddd"
+    return "测试代码提交触发自动构建dddddafas"
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
